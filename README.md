@@ -5,13 +5,16 @@ A showcase of my tech projects, designs, and professional journey.
 
 ### 🖼️ Previews
 
-![Homepage Preview](https://v0-portfolio1-lime.vercel.app/preview1.png)
+![Homepage Preview](pc1.png)
 *Homepage – sleek and minimal layout with animated project cards.*
 
-![Projects Section](https://v0-portfolio1-lime.vercel.app/preview2.png)
-*Projects section – showcasing real-world work in data, development, and design.*
+![About Section](pc2.png)
+*About section – showcasing myself.*
 
-![Contact Section](https://v0-portfolio1-lime.vercel.app/preview3.png)
+![skills Section](pc3.png)
+*skills section – showcasing real-world work in data, development, and design.*
+
+![project Section](pc4.png)
 *Easy-to-use contact form and direct social links.*
 
 ---
